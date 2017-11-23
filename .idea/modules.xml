@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dept-commons-dao/dept-commons-dao.iml" filepath="$PROJECT_DIR$/dept-commons-dao/dept-commons-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dept-commons-entiy/dept-commons-entiy.iml" filepath="$PROJECT_DIR$/dept-commons-entiy/dept-commons-entiy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dept-commons-service/dept-commons-service.iml" filepath="$PROJECT_DIR$/dept-commons-service/dept-commons-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dept-commons-utils/dept-commons-utils.iml" filepath="$PROJECT_DIR$/dept-commons-utils/dept-commons-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dept-commons-web/dept-commons-web.iml" filepath="$PROJECT_DIR$/dept-commons-web/dept-commons-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deptmg.iml" filepath="$PROJECT_DIR$/deptmg.iml" />
+    </modules>
+  </component>
+</project>
